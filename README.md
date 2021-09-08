@@ -1,2 +1,2 @@
 # Hello-World
-The first repository created by Rohan.
+The first repository created by Rohan Ranjan.
